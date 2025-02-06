@@ -7,7 +7,7 @@ from collections import defaultdict
 import requests
 
 # Configurações do backend
-BACKEND_URL = "http://127.0.0.1:5000"
+BACKEND_URL = "https://image-cropper-api-xynb.onrender.com"
 
 class SplashScreen:
     def __init__(self, root):
