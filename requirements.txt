@@ -1,0 +1,5 @@
+Flask==3.0.0
+requests==2.31.0
+Pillow==10.0.0
+tkinter==0.1.0
+sqlite3==0.1.0
